@@ -43,8 +43,8 @@ public class ThreadAssignment1  extends Thread {
 		  t2.start();  
 		  t3.start();
 		  
-		  System.out.println(t1.getState());
-		  System.out.println(t2.getState());
-		  System.out.println(t3.getState());
+		  //System.out.println(t1.getState());
+		  //System.out.println(t2.getState());
+		  //System.out.println(t3.getState());
 		 }  
 		}  
